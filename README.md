@@ -2,7 +2,7 @@ Calcular_vencimiento: Esta función toma la "Fecha de Elaboración" y los "Días
 
 Calcular_fecha_elaboracion: Esta función toma el "Lote Juliano" y los "Días de Vida Útil", y calcula la "Fecha de Elaboración" y la "Fecha de Vencimiento". La fecha de elaboración se obtiene sumando los días del lote juliano al primer día del año y, luego, calculando la fecha de vencimiento sumando los días de vida útil.
 
-Interfaz con Gradio: Usamos gr.Blocks para crear una interfaz gráfica. La interfaz tiene dos pestañas:
+Interfaz con Gradio: Usé gr.Blocks para crear una interfaz gráfica. La interfaz tiene dos pestañas:
 
 En la primera pestaña, puedes ingresar la fecha de elaboración y los días de vida útil para calcular la fecha de vencimiento y el lote juliano.
 En la segunda pestaña, puedes ingresar el lote juliano y los días de vida útil para calcular la fecha de elaboración y la fecha de vencimiento.
