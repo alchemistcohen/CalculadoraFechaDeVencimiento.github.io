@@ -7,4 +7,6 @@ Interfaz con Gradio: Usamos gr.Blocks para crear una interfaz gráfica. La inter
 En la primera pestaña, puedes ingresar la fecha de elaboración y los días de vida útil para calcular la fecha de vencimiento y el lote juliano.
 En la segunda pestaña, puedes ingresar el lote juliano y los días de vida útil para calcular la fecha de elaboración y la fecha de vencimiento.
 
+https://huggingface.co/spaces/alchemistcohen/CalculadoraFechadeVencimiento
+
 ![image](https://github.com/user-attachments/assets/f64767e8-fbeb-484c-a03c-7039835bdcbf)
